@@ -1,0 +1,1 @@
+Modify the VNC.js file if necessary and copy it to C:\Windows\VNC.js then run the step2.reg
